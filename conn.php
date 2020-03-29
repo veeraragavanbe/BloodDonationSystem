@@ -1,7 +1,8 @@
- <?php
+<?php
 $servername = "localhost";
 $username = "root";
 $password = "";
+
 $dbname="blood_donate_system";
 
 // Create connection
