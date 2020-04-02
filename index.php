@@ -47,7 +47,10 @@ if(!isset($_POST['btn_login']))
 <body >
   <main>
       <center>
-    <!--   <img class="responsive-img" style="width: 250px;" src="https://i.imgur.com/ax0NCsK.gif" /><br>-->
+
+
+    <!--   <img class="responsive-img" style="width: 250px;" src="https://i.imgur.com/ax0NCsK.gif" />
+    <br>-->
 
 <div  class="z-depth-3 y-depth-3 x-depth-3 grey green-text lighten-4 row" style="display: inline-block; padding: 30px 50px 10px 50px; border: 1px; margin-top: 17px; solid #EEE;">
 	<div class = "card-panel teal lighten-2" style="    position: relative;
