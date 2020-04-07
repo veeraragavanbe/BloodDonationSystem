@@ -159,7 +159,11 @@ echo '
 <script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
 <link rel="stylesheet" href="sweetalert-master/dist/sweetalert.css">
 <script src="sweetalert-master/dist/sweetalert-dev.js"></script>
-
+<script>
+$( document ).ready(function() {
+swal("Faild!","Please Enter Register Email-id !","error");
+});
+</script>
 ';	
 echo '<script type="text/javascript">';
 echo 'setTimeout(function () { window.location.href="forgot.php";';
