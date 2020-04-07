@@ -21,6 +21,7 @@
             <p class="center login-form-text">W3lessons - Material Design Login Form</p>
           </div>
         </div>
+        
         <div class="row margin">
           <div class="input-field col s12">
             <i class="mdi-social-person-outline prefix"></i>
@@ -28,6 +29,7 @@
             <label for="email" data-error="wrong" data-success="right" class="center-align">Email</label>
           </div>
         </div>
+
         <div class="row margin">
           <div class="input-field col s12">
             <i class="mdi-action-lock-outline prefix"></i>
