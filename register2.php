@@ -188,6 +188,7 @@ echo '<script type="text/javascript">';
 }
 else
 {
+    
 echo '	
 <script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
 <link rel="stylesheet" href="sweetalert-master/dist/sweetalert.css">
