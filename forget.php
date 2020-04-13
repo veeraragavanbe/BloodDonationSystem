@@ -42,8 +42,9 @@
     <center>
    <!--   <img class="responsive-img" style="width: 250px;" src="https://i.imgur.com/ax0NCsK.gif" />-->
 <div  class="z-depth-3 y-depth-3 x-depth-3 grey green-text lighten-4 row" style="display: inline-block; padding: 32px 40px 0px 40px; border: 1px; margin-top: 30px; solid #EEE;">
-      <div class = "card-panel teal lighten-2" style="    position: relative;
-    bottom: 25px;"><h3><center><font color="red">Simple Application</font></center></h3></div>
+      <div class = "card-panel teal lighten-2" style="    position: relative;bottom:25px;">
+      <h3><center><font color="red">Simple Application</font></center></h3></div>
+      
 
 <div class="col s12">
          <i class="material-icons prefix" style="    font-size: -webkit-xxx-large;
