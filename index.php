@@ -52,9 +52,9 @@ if(!isset($_POST['btn_login']))
     <!--   <img class="responsive-img" style="width: 250px;" src="https://i.imgur.com/ax0NCsK.gif" />
     <br>-->
 
-<div  class="z-depth-3 y-depth-3 x-depth-3 grey green-text lighten-4 row" style="display: inline-block; padding: 30px 50px 10px 50px; border: 1px; margin-top: 17px;">
+<div  class="z-depth-3 y-depth-3 x-depth-3 grey  lighten-4 row" style="display: inline-block; padding: 30px 50px 10px 50px; border: 1px; margin-top: 17px;">
 	<div class = "card-panel teal lighten-2" style="    position: relative;
-    bottom: 25px;"><h3><center><font color="red">Blood Donation System</font></center></h3></div>
+    bottom: 25px;"><h3><center><font color="Yellow">Blood Donation System</font></center></h3></div>
   
       <h5 class="indigo-text">Please, login into your account</h5>
       <div class="section"></div>
